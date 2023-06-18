@@ -1,4 +1,4 @@
-user_id,group,is_purchase
+customer_id,group,is_purchase
 8e27bf9a,A,No
 eb89e6f0,A,No
 7119106a,A,No
